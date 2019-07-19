@@ -45,9 +45,9 @@ social:
   link: https://github.com/aniketpanjwani
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,6 +59,10 @@ user_groups:
 - Visitors
 ---
 
-I am an economics PhD student at Northwestern University currently searching for employment as a data scientist. My dissertation focuses on the economics of the media.
+I am an economics PhD student at Northwestern University **currently searching for employment as a data scientist**. Through my coursework and research projects, I've developed significant skill at applied econometrics and causal inference. 
 
-I am skilled at Python and R programming, and experienced with many components of a typical data science technical stack: Git, AWS, Unix/Linux, SQL.
+I have several years of experience programming in Python and R according to modern technical standards. I use Git for version control, maintain my own PostgreSQL databases on AWS RDS, use Terraform to provision AWS EC2 instances for scripts which cannot be run locally, and use a combination of pipenv and Vagrant to create reproducible programming environments.
+
+I was featured on [FLOSS Weekly](https://twit.tv/shows/floss-weekly/episodes/481) to discuss [Chomper](./project/chomper), my open-source Python internet blocker for Linux. Almost all the code on this project was written by me, and can be found on [Github](https://github.com/aniketpanjwani/chomper).
+
+My dissertation focuses on the economics of the media. In [one dissertation chapter](./project/patreon), I study the impact of the introduction of subscription revenue streams on the behavior of online content creators. In [another dissertation chapter](./project/newspaper-strikes), I study how labor unions respond to technological change in the American newspaper industry.

@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Aniket"
+
+# Optional Google font URL
+google_fonts = "Proza+Libre|Open+Sans|Roboto+Mono"
+
+# Font families
+heading_font = "Proza Libre"
+body_font = "Open Sans"
+nav_font = "Proza Libre"
+mono_font = "Roboto Mono"
+
+# Font size
+font_size = "20"
+font_size_small = "16"
