@@ -49,14 +49,14 @@ profile: false
 
 The media industry is a two-sided market. Typically, when media firms consider what type of content to produce, they must take into consideration both the tastes of consumers and the tastes of advertisers. However, technological constraints may prevent media firms from monetizing the subscription or advertising side of the market. For "old media" (i.e. newspapers, radio, and television), there are no such technological constraints. However, "new media" content creators - such as bloggers, podcasters, and YouTubers - have until recently only been able to easily monetize their content through advertising.
 
-In the last five to ten years, platforms and technologies have been created which allow "new media" content creators to monetize people who consumer their content. In this paper, we study how the introduction of a subscription revenue stream affects online content creators' content creation decisions. To study this, we exploit a natural experiment in the history of Patreon, an online platform which makes it easy for online content creators to collect subscription payments. 
+In the last five to ten years, platforms and technologies have been created which allow "new media" content creators to monetize people who consumer their content. In this paper, we study how the introduction of a subscription revenue stream affects online content creators' content creation decisions. To study this, we exploit a natural experiment in the history of [Patreon](https://patreon.com), an online platform which makes it easy for online content creators to collect subscription payments. 
 
-In October 2015, Patreon's database was hacked. Due to privacy concerns, many subscribers of content creators on Patreon cancelled their subscriptions. We treat the revenue loss due to canceled subscriptions as random across creators, and we use the revenue loss in a continuous difference-in-differences model to study how a negative shock to creators' subscription revenue affects their content creation behavior. We focus on YouTube content creators, because they are the largest group of creators on Patreon, and we are easily able to scrape details of their content creation behavior using the [Youtube Data API](https://google.com).
+In October 2015, Patreon's database was hacked. Due to privacy concerns, many subscribers of content creators on Patreon cancelled their subscriptions. We treat the revenue loss due to canceled subscriptions as random across creators, and we use the revenue loss in a continuous difference-in-differences model to study how a negative shock to creators' subscription revenue affects their content creation behavior. We focus on YouTube content creators, because they are the largest group of creators on Patreon, and we are easily able to scrape details of their content creation behavior using the [Youtube Data API](https://developers.google.com/youtube/v3/).
 
 We find that negative subscription shocks
 
-1. **increase** the amount of affiliate links in videos' descriptions.
-2. **increase** the amount of brand mentions in videos.
+1. **Increase** the amount of affiliate links in videos' descriptions.
+2. **Increase** the amount of brand mentions in videos.
 3. **Have no effect** on the "clickbait"-iness of content.
 
 Overall, our findings point at content creators attempting to replace lost subscription revenue with *native advertising*, or advertising disguised as content, but not drastically changing the quality of videos.

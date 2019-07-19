@@ -62,11 +62,9 @@ Our main findings are that:
 
 ## Tools/Techniques Used
 
-+ I use Python to process raw data digitized from newspaper yearbooks on newspaper technology. As an example, a typical example of the data on newspaper technology looks like this:
++ I use Python to process raw data digitized from newspaper yearbooks on newspaper technology. As an example, a typical example of the raw data on newspaper technology looks like this:
 
-'''
-Tapesetters 4AKI-Autofape; Teletype Setters- 4AKI; Cold Type &Photo Comp 2COM-2961 HS, 1COM-4961, 1COM-ACM-9000; 1COM-IV, JCOM-7200,: OCR Equipment 1 COM. PLATE","2C0M-2961, 2CD-4961
-'''
+`Tapesetters 4AKI-Autofape; Teletype Setters- 4AKI; Cold Type &Photo Comp 2COM-2961 HS, 1COM-4961, 1COM-ACM-9000; 1COM-IV, JCOM-7200,: OCR Equipment 1 COM. PLATE","2C0M-2961, 2CD-4961`
 
 + Processed data of the above form is stored in a PostgreSQL database on AWS RDS.
 + Regression models are estimated using STATA.
