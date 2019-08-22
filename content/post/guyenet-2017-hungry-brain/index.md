@@ -1,7 +1,6 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Review/Thoughts: The Hungry Brain by Stephan Guyenet"
+title: "Thoughts/Review: The Hungry Brain by Stephan Guyenet"
 subtitle: ""
 summary: ""
 authors: []
@@ -10,7 +9,7 @@ categories: []
 date: 2019-08-08T18:42:57-05:00
 lastmod: 2019-08-08T18:42:57-05:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

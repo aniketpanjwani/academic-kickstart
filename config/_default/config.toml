@@ -66,5 +66,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_type = "publication_types"
   author = "authors"
 
-[permalinks]
-  post = "/article/:slug"
+# [permalinks]
+#   post = "/article/:slug"
