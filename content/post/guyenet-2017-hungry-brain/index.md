@@ -27,3 +27,4 @@ image:
 projects: []
 ---
 
+Over the last year and a half, I've climbed up to a weight which puts me on the threshold between. I bought *The Hungry Brain* about five months ago after listening to a debate/discussion between Gary Taubes and Stephan Guyenet
