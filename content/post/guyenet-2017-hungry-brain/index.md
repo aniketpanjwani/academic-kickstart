@@ -6,8 +6,8 @@ summary: ""
 authors: []
 tags: []
 categories: []
-date: 2019-08-08T18:42:57-05:00
-lastmod: 2019-08-08T18:42:57-05:00
+date: 2019-08-21T18:42:57-05:00
+lastmod: 2019-08-21T18:42:57-05:00
 featured: false
 draft: true
 
@@ -27,4 +27,14 @@ image:
 projects: []
 ---
 
-Over the last year and a half, I've climbed up to a weight which puts me on the threshold between. I bought *The Hungry Brain* about five months ago after listening to a debate/discussion between Gary Taubes and Stephan Guyenet
+One of the main advocates for low-carbohydrate diets is Gary Taubes, a prominent science journalist and author. I had read one of his books, *insert book name*, which *what it does*. In recent years, Taubes has been a proponent for the "insulin theory" of fat acquisition. *Describe the insulin theory*.
+
+About five months ago, as I was looking for a podcast to listen to, I came across a debate/discussion between Gary Taubes and Stephan Guyenet on the Joe Rogan Experience, a popular long-form interview style podcast. *Describe what they were debating* Taubes' name piqued my curiosity, but Stephan Guyenet's scientific rigor really won me over.
+
+## Tasks
++ Write a zettel about the insulin theory.
++ Maybe remove personal history, and move to a separate post.
+
+[^2]: BMI is an adequate indicator for obesity in people with "normal" amounts of muscle mass. I've inconsistently done some form of strength training over the last two years, so I may have slightly more muscle than the average person, but no one will mistake me for Steve Reeves.
+
+[^3]: The literature usually cites either 20g or 50g.
