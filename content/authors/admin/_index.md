@@ -59,7 +59,7 @@ user_groups:
 - Visitors
 ---
 
-I am an economics PhD student at Northwestern University **currently searching for employment as a data scientist**. Through my coursework and research projects, I've developed significant skill at applied econometrics and causal inference. 
+I am an economics PhD student at Northwestern University working as a Data Science Intern at [Early Warning Services](https://earlywarning.com/), creators of [Zelle](https://www.zellepay.com/). Through my coursework and research projects, I've developed significant skill at applied econometrics and causal inference. 
 
 I have several years of experience programming in Python and R according to modern technical standards. I use Git for version control, maintain my own PostgreSQL databases on AWS RDS, use Terraform to provision AWS EC2 instances for scripts which cannot be run locally, and use a combination of pipenv and Vagrant to create reproducible programming environments.
 
